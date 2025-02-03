@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaJRaut
-- 👀 I’m interested in Java Software Development
+- 👀 I’m interested in Java,.NET Software Development
 - 🌱 I’m currently learning Core Java and UI
 - 📫 How to reach me rautadityaj@gmail.com
 - 😄 Pronouns: ...
