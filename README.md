@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AdityaJRaut
-- 👀 I’m interested in Java,.NET Software Development
-- 🌱 I’m currently learning Core Java,OOP,SQL and UI
+
 - 📫 How to reach me rautadityaj@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
